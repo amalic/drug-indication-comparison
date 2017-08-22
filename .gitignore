@@ -1,6 +1,20 @@
+# project
+src/main/resources/application.properties
+
+# eclipse
 .classpath
 .project
 .settings/
+
+# idea
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+classes/
+
+# maven
 log/
 target/
-src/main/resources/application.properties
