@@ -1,0 +1,11 @@
+# disbale Spring banner
+spring.main.banner-mode=off
+
+# jdbc connection to drugcentral
+spring.datasource.url=<JDBC URL>
+spring.datasource.username=<JDBC USERNAME>
+spring.datasource.password=<JDBC PASSWORD>
+
+# hypothes.is properties
+hypothesis.token=<HYPOTHESIS API TOKEN>
+hypothesis.groupid=<HYPOTHESIS GROUP ID>
